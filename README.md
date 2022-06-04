@@ -1,7 +1,7 @@
 # batchFiles
 
 local scripts and helpers for Windows work computer.
-- this directory has been added to the Windows PATH environmental variable for my user.
+- this directory has been added to the Windows PATH environmental variable for my user (`~\Documents\bench\batchFiles` on `RA001839`).
 
 ## scripts
 - `dailyNotes.bat`
